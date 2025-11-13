@@ -1,4 +1,4 @@
-package com.example.bookborrowing;
+package bookborrowing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
