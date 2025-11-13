@@ -7,7 +7,6 @@ import bookborrowing.reservation.Reservation;
 import bookborrowing.auth.Users;
 import java.util.Optional;
 
-
 public interface UsersRepository extends JpaRepository<Users, Long> {
 
 }
